@@ -1,0 +1,13 @@
+li {
+  list-style-type: none;
+}
+.gallery {
+  display: flex;
+}
+.photo {
+  margin: 30px;
+}
+.photo img {
+  height: 100%;
+  width: 100%;
+}
